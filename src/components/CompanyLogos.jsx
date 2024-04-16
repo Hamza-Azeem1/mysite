@@ -19,4 +19,5 @@ const CompanyLogos = ({ className }) => {
     </div>
   );
 };
+
 export default CompanyLogos;

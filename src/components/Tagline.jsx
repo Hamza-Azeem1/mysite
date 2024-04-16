@@ -9,4 +9,5 @@ const TagLine = ({ className, children }) => {
     </div>
   );
 };
+
 export default TagLine;
